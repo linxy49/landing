@@ -42,7 +42,7 @@
                             <div class="row clearfix">
                                 <div class="col-md-6 col-sm-8">
                                     <div class="emphasis-title">
-                                    <h1 class="font-body"> 好 味 道 ，<br> ? 美 食 来 敲 ? 。</h1>
+                                    <h1 class="font-body">好味道，<br>&nbsp;&nbsp;让美食来敲门。</h1>
                                     </div>
 
                                     <div>
